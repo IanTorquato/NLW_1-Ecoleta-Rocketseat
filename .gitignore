@@ -1,9 +1,13 @@
-
+wallpapers
 server/node_modules
 server/package-lock.json
-wallpapers
+server/uploads/*
+!server/uploads/.gitkeep
+server/*.sqlite
+
 web/node_modules
 web/yarn.lock
+web/package-lock.json
+
 mobile/node_modules
 mobile/package-lock.json
- 
