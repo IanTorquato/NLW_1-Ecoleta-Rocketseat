@@ -8,7 +8,7 @@
   <img alt="Feito por Ian Torquato" src="https://img.shields.io/badge/made%20by-Ian%20Torquato-%2304D361">
   <img alt="Quantidade de linguagens" src="https://img.shields.io/github/languages/count/IanTorquato/Ecoleta-Rocketseat-NLW">
   
-  <a href="https://github.com/Ian Torquato/Ecoleta-Rocketseat-NLW/stargazers">
+  <a href="https://github.com/IanTorquato/Ecoleta-Rocketseat-NLW/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/IanTorquato/Ecoleta-Rocketseat-NLW?style=social">
   </a>
 </p>
