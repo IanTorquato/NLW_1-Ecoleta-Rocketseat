@@ -52,4 +52,4 @@ app.post('/users', (request, response) => {
 })
 */
 
-app.listen(process.env.PORT || 3333)
+app.listen(3333)
