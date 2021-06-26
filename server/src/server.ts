@@ -14,12 +14,7 @@ app.use(errors())
 
 /* Explicações
 
-const users = [
-    "Ian",
-    "Ana",
-    "Valdenir",
-    "Thiago"
-]
+const users = ["Ian", "Ana", "Valdenir", "Thiago"]
 
 // Query Param: Parâmetros que vem na própria rota geralmente opcionais (filtros/paginação)
 app.get('/users', (request, response) => {
